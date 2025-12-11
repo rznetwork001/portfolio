@@ -1032,7 +1032,7 @@ section {
     81% {
         opacity: 0;
     }
-}a
+}
 
 @keyframes aboutSpinner {
     100%{
@@ -1042,7 +1042,7 @@ section {
 
 @keyframes showRight {
     100% {
-        width:  10;
+        width: 0;
     }
 }
 
@@ -1061,5 +1061,3 @@ section {
     grid-template-columns: 1fr;
   }
 }
-
-
